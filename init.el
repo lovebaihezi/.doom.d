@@ -112,7 +112,7 @@
        :lang
        agda              ; types of types of types of types...
        ;;beancount         ; mind the GAAP
-       (cc + lsp)                ; C > C++ == 1
+       ;;(cc + lsp)                ; C > C++ == 1
        ;;clojure           ; java with a lisp
        ;;common-lisp       ; if you've seen one lisp, you've seen them all
        coq               ; proofs-as-programs
@@ -134,7 +134,7 @@
        ;;(go +lsp)         ; the hipster dialect
        (haskell +lsp)    ; a language that's lazier than I am
        ;;hy                ; readability of scheme w/ speed of python
-       idris             ; a language you can depend on
+       ;;idris             ; a language you can depend on
        ;;json              ; At least it ain't XML
        ;;(java +meghanada) ; the poster child for carpal tunnel syndrome
        ;;javascript        ; all(hope(abandon(ye(who(enter(here))))))
